@@ -1,9 +1,13 @@
 # machine-learning
 
 ## Overview
-Contains the implementation for Udemy Course - **Machine Learning A-Z™: Hands-On Python & R In Data Science**.
+Contains the implementation for:
+
+- **Machine Learning A-Z™: Hands-On Python & R In Data Science**.
+- **Machine Learning Engineer Nanodegree**
 
 ## Language & Compiler
+
 Implemented in Python and R.  
 
 ## Input & Output
@@ -11,7 +15,9 @@ Implemented in Python and R.
 ## Code Organization
 
 ## Links
-Udemy Course - <https://www.udemy.com/machinelearning/>
+
+[Machine Learning A-Z™: Hands-On Python & R In Data Science](udemy.com/machinelearning)
+[Machine Learning Engineer Nanodegree](udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 ## License
 
